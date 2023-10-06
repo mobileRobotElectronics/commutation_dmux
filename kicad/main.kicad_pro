@@ -394,7 +394,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -532,6 +532,14 @@
     [
       "9139d8e7-a5dc-421f-9a12-f77d83384a16",
       ""
+    ],
+    [
+      "78633ae4-16ee-4737-a0bd-03d3d873ef8a",
+      "adressInverter"
+    ],
+    [
+      "e917ef72-fcdc-4fb4-bed2-ce6e877d368a",
+      "com_dmux"
     ]
   ],
   "text_variables": {}
