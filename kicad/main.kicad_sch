@@ -592,7 +592,7 @@
     (property "Value" "Conn_02x14_Counter_Clockwise" (at 52.07 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 50.8 132.08 0)
+    (property "Footprint" "Package_DIP:DIP-28_W15.24mm_Socket_LongPads" (at 50.8 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 132.08 0)
