@@ -127,7 +127,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.6,
         "min_track_width": 0.4064,
-        "min_via_annular_width": 0.254,
+        "min_via_annular_width": 0.19999999999999998,
         "min_via_diameter": 1.524,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
@@ -478,7 +478,7 @@
         "name": "Versorgung",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 2.0,
+        "track_width": 0.508,
         "via_diameter": 1.524,
         "via_drill": 1.0,
         "wire_width": 6
